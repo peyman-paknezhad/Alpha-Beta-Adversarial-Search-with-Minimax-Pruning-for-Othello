@@ -12,8 +12,7 @@ The minimax algorithm is a decision-making algorithm used in game theory and art
 
 ## Alpha-Beta Pruning:
 
-![alpha beta](https://github.com/peyman-paknezhad/Alpha-Beta-Adversarial-Search-with-Minimax-Pruning-for-Othello/assets/102018763/ba4519a6-1247-487f-b32f-df3117d5beaf)
-
+![alpha beta](https://raw.githubusercontent.com/peyman-paknezhad/Alpha-Beta-Adversarial-Search-with-Minimax-Pruning-for-Othello/main/pic/alpha%20beta.JPG)
 Alpha-beta pruning is an optimization technique used in conjunction with the minimax algorithm to reduce the number of nodes that need to be evaluated. It eliminates branches in the game tree that are guaranteed to be worse than previously evaluated branches, thereby reducing the search space and improving the algorithm's efficiency.
 
 During the minimax search, the algorithm maintains two values: alpha and beta. The alpha value represents the best maximum score that the maximizing player has found so far, while the beta value represents the best minimum score that the minimizing player has found so far. As the search progresses, if the algorithm finds a move that leads to a lower score than the current alpha value (for the maximizing player) or a higher score than the current beta value (for the minimizing player), it can prune the remaining branches of that node because the opponent would not choose that path.
