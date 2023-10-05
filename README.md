@@ -1,7 +1,7 @@
 # Alpha-Beta-Adversarial-Search-with-Minimax-Pruning-for-Othello
 ## Othello Game:
 
-![f362f3ba001858b28d8ad6a800728b8b_t](https://github.com/peyman-paknezhad/Alpha-Beta-Adversarial-Search-with-Minimax-Pruning-for-Othello/assets/102018763/74f44875-27c5-45f9-ab3c-17e1f49c1ee5)
+![f362f3ba001858b28d8ad6a800728b8b_t](https://raw.githubusercontent.com/peyman-paknezhad/Alpha-Beta-Adversarial-Search-with-Minimax-Pruning-for-Othello/main/pic/othello.jpeg)
 
 Othello, also known as Reversi, is a popular two-player board game played on an 8x8 grid. The game is played with discs, typically black on one side and white on the other. The objective of the game is to have the majority of your colored discs on the board at the end of the game. The game starts with four discs placed in a specific pattern in the center of the board. Players take turns placing their discs on empty squares, with the goal of flipping their opponent's discs to their own color by surrounding them in a straight line horizontally, vertically, or diagonally. A player must make a move if they have a valid move available, and if they cannot make a move, they pass their turn. The game ends when neither player can make a move, and the player with the most discs of their color on the board wins.
 
